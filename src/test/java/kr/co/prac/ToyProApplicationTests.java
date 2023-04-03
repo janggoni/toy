@@ -8,6 +8,7 @@ class ToyProApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("테스트");
 	}
 
 }
